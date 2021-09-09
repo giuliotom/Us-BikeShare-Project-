@@ -15,7 +15,7 @@ It is en interactive environment where the user choose and filter the data of a 
 
 ## How to run the program:
 To run the program you will need:
--Python 3 (Numpy and Pandas packages installed using Anaconda)
+-Python 3 (Numpy, Pandas and Time packages installed using Anaconda)
 -a terminal application (terminal for Mac/Linux or Git for Windows)
 
 ### Files used
@@ -31,3 +31,4 @@ The following files are not uploaded beacuse are too big:
 - Numpy documentation: https://numpy.org/doc/
 - Pandas Documentation: https://pandas.pydata.org/docs/
 - Stack Overflow (Helps you to resolve errors while running the code): https://stackoverflow.com/
+- Time documentation: https://docs.python.org/3/library/time.html
