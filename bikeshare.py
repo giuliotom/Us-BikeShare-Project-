@@ -37,8 +37,6 @@ def get_filters():
 
 
 
-
-
     # TO DO: get user input for month (all, january, february, ... , june)
     MONTHS ={'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6, 'all': 7}
     month = ''
