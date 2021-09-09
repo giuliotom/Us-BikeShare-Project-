@@ -232,6 +232,8 @@ def raw_data(df):
     """Displays raw data on user request.
     Args:
         (DataFrame) df - Pandas DataFrame containing city data
+        Return:
+               None
     """
     print(df.head())
     start_loc = 0
