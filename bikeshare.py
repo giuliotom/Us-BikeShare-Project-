@@ -244,8 +244,6 @@ def raw_data(df):
         break
 
 
-
-
 def main():
     while True:
         city, month, day = get_filters()
